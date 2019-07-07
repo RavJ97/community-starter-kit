@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A Welcome bot created from Probot which is an open source framework that allows you to create GitHub apps to automate your GitHub workflow.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Welcome Bot automatically generates friendly messages when new team members create their first issue and open or merge their first pull request.
 
 ## Getting started
 
